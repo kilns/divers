@@ -28,11 +28,9 @@ a:hover, a:focus {
 }
 figure {
 	max-width:319px;
-	max-width:64rem;
 	width:100%;
 	height:100%;
 	max-height:288px;
-	max-height:30.875rem;
 	margin:20px auto;
 	margin:1.25rem auto;
 	padding:20px;
