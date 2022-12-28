@@ -6,12 +6,12 @@ html, body {
 	height:100%;
 }
 body {
-	color:#666;
+	color:#d5cbc4;
 	background-color:#ccc;
 	font-family:"Lucida Grande","Lucida Sans Unicode","DejaVu Sans",Lucida,Arial,Helvetica,sans-serif;
 }
 h1 {
-	color:#666;
+	color:#d5cbc4;
 	font-size:20px;
 	font-size:1.25rem;
 	text-align:center;
@@ -35,7 +35,7 @@ figure {
 	margin:1.25rem auto;
 	padding:20px;
 	padding:1.051%;
-	background-color:#666;
+	background-color:#d5cbc4;
 }
 figcaption {
 	display:block;
