@@ -1,8 +1,14 @@
 (function () {
 	'use strict';
 
+	var iframe = document.getElementsByTagName('iframe')[0];
+iframe.style.background = 'white';
+iframe.contentWindow.document.body.style.backgroundColor = 'white';
+
 	// Does the browser actually support the video element?
 	var supportsVideo = !!document.createElement('video').canPlayType;
+	
+
 
 	if (supportsVideo) {
 		// Obtain handles to main elements
